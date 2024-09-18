@@ -32,6 +32,6 @@ Proyek ini menunjukkan cara membuat formulir di Flutter untuk menangkap input pe
 Untuk meningkatkan antarmuka pengguna, Anda dapat menambahkan lebih banyak gaya pada kolom formulir dan tampilan hasil. Misalnya:
 - Tambahkan padding, margin, dan warna untuk keterbacaan yang lebih baik.
 
-## Screenshot
+## Screenshots
 ![Lampiran Form](form1.png)
 ![Lampiran Hasil](hasil1.png)
